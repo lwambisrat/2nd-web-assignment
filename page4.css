@@ -1,0 +1,16 @@
+.last{
+    text-align: center;
+    padding:25px ;
+    margin: 10%;
+    border: dotted red;
+    
+}
+.sub{
+    border: solid green;
+    margin: 10%;
+    padding: 25px;
+    
+}
+body{
+   background-image: url(https://www.pixelstalk.net/wp-content/uploads/images6/Sky-Aesthetic-Light-Purple-Background.jpg);
+}
